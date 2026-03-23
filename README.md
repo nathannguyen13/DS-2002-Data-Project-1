@@ -15,6 +15,9 @@ Required files:
 - appointments.csv
 - patients.csv
 - slots.csv
+  
+- Note: slots.csv will be automatically trimmed to 10,000 rows in the notebook
+to avoid MongoDB Atlas free tier upload timeouts.
 
 ### Step 3 — Update credentials in Cell 2
 - Replace `uid` and `pwd` with your MySQL username and password
