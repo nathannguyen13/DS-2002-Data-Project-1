@@ -8,7 +8,7 @@ pip install pandas pymongo sqlalchemy pymysql certifi
 ```
 
 ### Step 2 — Download the dataset
-Download the CSV files from Kaggle and place them in the same folder as the notebook:
+Download the CSV files from Kaggle and place them in the same folder as the Project 1.ipynb:
 https://www.kaggle.com/datasets/carogonzalezgaltier/medical-appointment-scheduling-system
 
 Required files:
